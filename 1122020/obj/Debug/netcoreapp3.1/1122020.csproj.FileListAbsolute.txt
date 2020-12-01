@@ -1,0 +1,13 @@
+C:\Users\Ceyhun\source\repos\1122020\bin\Debug\netcoreapp3.1\1122020.exe
+C:\Users\Ceyhun\source\repos\1122020\bin\Debug\netcoreapp3.1\1122020.deps.json
+C:\Users\Ceyhun\source\repos\1122020\bin\Debug\netcoreapp3.1\1122020.runtimeconfig.json
+C:\Users\Ceyhun\source\repos\1122020\bin\Debug\netcoreapp3.1\1122020.runtimeconfig.dev.json
+C:\Users\Ceyhun\source\repos\1122020\bin\Debug\netcoreapp3.1\1122020.dll
+C:\Users\Ceyhun\source\repos\1122020\bin\Debug\netcoreapp3.1\1122020.pdb
+C:\Users\Ceyhun\source\repos\1122020\obj\Debug\netcoreapp3.1\1122020.csprojAssemblyReference.cache
+C:\Users\Ceyhun\source\repos\1122020\obj\Debug\netcoreapp3.1\1122020.AssemblyInfoInputs.cache
+C:\Users\Ceyhun\source\repos\1122020\obj\Debug\netcoreapp3.1\1122020.AssemblyInfo.cs
+C:\Users\Ceyhun\source\repos\1122020\obj\Debug\netcoreapp3.1\1122020.csproj.CoreCompileInputs.cache
+C:\Users\Ceyhun\source\repos\1122020\obj\Debug\netcoreapp3.1\1122020.dll
+C:\Users\Ceyhun\source\repos\1122020\obj\Debug\netcoreapp3.1\1122020.pdb
+C:\Users\Ceyhun\source\repos\1122020\obj\Debug\netcoreapp3.1\1122020.genruntimeconfig.cache
